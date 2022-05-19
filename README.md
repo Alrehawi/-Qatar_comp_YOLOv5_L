@@ -1,0 +1,1 @@
+# -Qatar_comp_YOLOv5_L
