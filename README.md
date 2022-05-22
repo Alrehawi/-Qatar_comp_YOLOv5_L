@@ -7,9 +7,9 @@ Sign language is a communication system that uses Gestures and visual signs, usu
 #click here to see the smart model
 [![click here to see the smart model](https://github.com/Alrehawi/Qatar_comp_YOLOv5/blob/main/sheen.png)](https://www.youtube.com/embed/y_ViyiNd_0Y)
 # Arabic sign language - letters
-[![ARSlang ](https://github.com/Alrehawi/Qatar_comp_YOLOv5/blob/main/Signs_32_New.png)
+[![ARSlang ](https://github.com/Alrehawi/Qatar_comp_YOLOv5_L/blob/main/Signs_32_New.png)
 
 # The result was:
-[![Result ](https://github.com/Alrehawi/Qatar_comp_YOLOv5/blob/main/results.png)
+[![Result ](https://github.com/Alrehawi/-Qatar_comp_YOLOv5_L/blob/main/results.png)
 
 
