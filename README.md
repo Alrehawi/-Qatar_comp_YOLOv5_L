@@ -12,4 +12,7 @@ Sign language is a communication system that uses Gestures and visual signs, usu
 # The result was:
 [![Result ](https://github.com/Alrehawi/-Qatar_comp_YOLOv5_L/blob/main/results.png)
 
+To run model on the webcam :
+#python detect.py --source 0 --weights best.pt
+
 
